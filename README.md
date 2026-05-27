@@ -18,7 +18,7 @@
 
 > *"Automate the boring stuff. Monitor everything else."*
 
-- 🔧 **Junior DevOps Engineer & Linux SysAdmin** with ~2 years of hands-on experience
+- 🔧 **DevOps Engineer** with ~2.5 years of hands-on experience
 - 🏢 Currently at **IdeoBIZ Technologies**, Bengaluru — working on enterprise client deployments
 - ☁️ Building and managing cloud infra on **AWS** (EC2, S3, VPC, EBS, CloudWatch, IAM)
 - 🔁 Designing and maintaining **CI/CD pipelines** with Jenkins + Maven + SonarQube
